@@ -1,0 +1,50 @@
+Flutter crash report.
+Please report a bug at https://github.com/flutter/flutter/issues.
+
+## command
+
+flutter run
+
+## exception
+
+WipError: WipError -32000 Cannot find context with specified id
+
+```
+```
+
+## flutter doctor
+
+```
+[✓] Flutter (Channel beta, 1.20.0-7.3.pre, on Microsoft Windows [Version 10.0.19041.388], locale en-IN)
+    • Flutter version 1.20.0-7.3.pre at C:\Users\91931\flutter
+    • Framework revision e606910f28 (4 days ago), 2020-07-28 16:06:37 -0700
+    • Engine revision ac95267aef
+    • Dart version 2.9.0 (build 2.9.0-21.10.beta)
+
+[✓] Android toolchain - develop for Android devices (Android SDK version 29.0.3)
+    • Android SDK at C:\Users\91931\AppData\Local\Android\sdk
+    • Platform android-29, build-tools 29.0.3
+    • Java binary at: C:\Program Files\Android\Android Studio\jre\bin\java
+    • Java version OpenJDK Runtime Environment (build 1.8.0_212-release-1586-b04)
+    • All Android licenses accepted.
+
+[✓] Chrome - develop for the web
+    • Chrome at C:\Program Files (x86)\Google\Chrome\Application\chrome.exe
+
+[✓] Android Studio (version 3.6)
+    • Android Studio at C:\Program Files\Android\Android Studio
+    • Flutter plugin version 47.1.1
+    • Dart plugin version 192.8052
+    • Java version OpenJDK Runtime Environment (build 1.8.0_212-release-1586-b04)
+
+[!] VS Code (version 1.47.2)
+    • VS Code at C:\Users\91931\AppData\Local\Programs\Microsoft VS Code
+    ✗ Flutter extension not installed; install from
+      https://marketplace.visualstudio.com/items?itemName=Dart-Code.flutter
+
+[✓] Connected device (2 available)
+    • Web Server (web) • web-server • web-javascript • Flutter Tools
+    • Chrome (web)     • chrome     • web-javascript • Google Chrome 84.0.4147.105
+
+! Doctor found issues in 1 category.
+```

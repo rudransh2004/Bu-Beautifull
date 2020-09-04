@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "775428670662",
+    "firebase_url": "https://bubeautifull.firebaseio.com",
+    "project_id": "bubeautifull",
+    "storage_bucket": "bubeautifull.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:775428670662:android:d7950fd033361b8d7883c7",
+        "android_client_info": {
+          "package_name": "com.example.bubeautifull"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "775428670662-3jdm6s54jolaic6d4ndu16tbbjo1b1mp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBgzVv52V5uyFqhqRjmBe56D1ONtkHbABU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "775428670662-3jdm6s54jolaic6d4ndu16tbbjo1b1mp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
